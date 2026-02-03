@@ -1,0 +1,8 @@
+Flask==3.0.0
+Flask-CORS==4.0.0
+python-dotenv==1.0.0
+pytest==7.4.3
+pandas==2.2.1  # 用于读取CSV文件
+numpy>=1.21.0  # 用于数值计算和优化算法
+schedule==1.2.1  # 用于定时任务
+requests>=2.31.0

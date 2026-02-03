@@ -1,0 +1,101 @@
+student_id,origin_stop_id,dest_stop_id,eta,boarding_time,early_tol,late_tol,timestamp,request_date,matched,pickup_time,arrive_time,trip_id
+wang.62045, Jennings Hall, Morrill Tower,00:28,00:13,8,11,2025-10-26 00:25:00,2025-10-27,False,,,
+li.29142, Thompson Library, Jesse Owens Recreation Center South,01:47,01:27,13,7,2025-10-26 01:44:00,2025-10-27,False,,,
+zhang.85232, Drackett Tower, The City Apartment,02:53,02:35,9,10,2025-10-26 02:46:00,2025-10-27,True,02:35,02:44,IGA000003
+chen.91632, 18th Avenue Library, Target(1717 Olentangy River Rd),03:41,03:27,10,6,2025-10-26 03:33:00,2025-10-27,False,,,
+liu.60457, The City Apartment, Drackett Tower,04:35,04:17,10,7,2025-10-26 04:27:00,2025-10-27,True,04:17,04:25,IGA000010
+zhao.11196, Jesse Owens Recreation Center South, Fisher Hall,05:11,04:51,14,5,2025-10-26 05:06:00,2025-10-27,True,04:53,04:57,IGA000006
+wang.96526, The City Apartment, Easton Town Center,07:06,06:52,9,14,2025-10-26 06:48:00,2025-10-27,False,,,
+li.75752, Ohio Union, Essex Apartment,07:10,06:57,14,13,2025-10-26 07:02:00,2025-10-27,True,06:57,06:58,IGA000007
+zhang.96589, 18th Avenue Library, Thompson Library,07:08,06:57,14,5,2025-10-26 07:03:00,2025-10-27,True,06:57,06:58,IGA000004
+chen.71892, Ohio Union, Thompson Library,07:16,07:00,13,12,2025-10-26 07:13:00,2025-10-27,False,,,
+wang.80252, Target(1717 Olentangy River Rd), John Glenn Columbus International Airport,07:29,07:17,6,9,2025-10-26 07:14:00,2025-10-27,False,,,
+li.53958, John Glenn Columbus International Airport, Ohio State University Adventure Recreation Center,07:36,07:26,11,5,2025-10-26 07:21:00,2025-10-27,True,07:26,07:27,IGA000009
+zhang.22539, Target(1717 Olentangy River Rd), Thompson Library,07:30,07:16,7,8,2025-10-26 07:23:00,2025-10-27,True,07:16,07:23,IGA000008
+chen.14360, Ohio State University Adventure Recreation Center, Easton Town Center,07:43,07:32,6,15,2025-10-26 07:23:00,2025-10-27,True,07:32,07:37,IGA000011
+liu.69332, Ohio Union, John Glenn Columbus International Airport,07:41,07:22,9,11,2025-10-26 07:29:00,2025-10-27,False,,,
+zhao.14883, Jennings Hall, Fisher Hall,07:45,07:31,9,7,2025-10-26 07:40:00,2025-10-27,True,07:31,07:36,IGA000002
+wang.91027, Target(1717 Olentangy River Rd), The City Apartment,07:59,07:40,7,6,2025-10-26 07:51:00,2025-10-27,False,,,
+li.74678, Ohio State University Adventure Recreation Center, Jesse Owens Recreation Center South,08:07,07:52,6,15,2025-10-26 08:03:00,2025-10-27,True,07:52,08:01,IGA000011
+zhang.86574, The City Apartment, Morrill Tower,08:14,08:00,5,13,2025-10-26 08:06:00,2025-10-27,False,,,
+chen.12323, Morrill Tower, Ohio Union,08:11,07:59,13,8,2025-10-26 08:06:00,2025-10-27,True,07:59,08:00,IGA000011
+wang.72810, 18th Avenue Library, John Glenn Columbus International Airport,08:35,08:16,13,5,2025-10-26 08:19:00,2025-10-27,True,08:16,08:22,IGA000013
+li.57792, Jesse Owens Recreation Center South, Fisher Hall,08:27,08:16,10,15,2025-10-26 08:22:00,2025-10-27,True,08:16,08:17,IGA000006
+zhang.23124, 18th Avenue Library, Jennings Hall,08:33,08:15,7,7,2025-10-26 08:27:00,2025-10-27,False,,,
+chen.60207, Ohio Union, Ohio State University Adventure Recreation Center,08:32,08:18,7,8,2025-10-26 08:29:00,2025-10-27,True,08:18,08:25,IGA000007
+liu.82792, Ohio Union, Easton Town Center,09:00,08:47,12,8,2025-10-26 08:42:00,2025-10-27,True,08:47,08:48,IGA000007
+zhao.99800, John Glenn Columbus International Airport, Ohio State University Adventure Recreation Center,09:06,08:50,5,7,2025-10-26 08:51:00,2025-10-27,True,08:50,09:01,IGA000010
+wang.70447, Ohio State University Adventure Recreation Center, Essex Apartment,09:01,08:43,11,8,2025-10-26 08:55:00,2025-10-27,True,08:43,08:50,IGA000011
+li.44731, 18th Avenue Library, Ohio State University Adventure Recreation Center,09:33,09:16,14,8,2025-10-26 09:27:00,2025-10-27,False,,,
+zhang.74337, Easton Town Center, Morrill Tower,09:50,09:35,5,11,2025-10-26 09:32:00,2025-10-27,True,09:35,09:45,IGA000011
+chen.85265, Fisher Hall, Essex Apartment,09:48,09:34,7,10,2025-10-26 09:41:00,2025-10-27,True,09:34,09:41,IGA000012
+wang.56065, Ohio Union, Morrill Tower,09:49,09:32,14,15,2025-10-26 09:44:00,2025-10-27,True,09:32,09:35,IGA000013
+li.18861, Jennings Hall, Fisher Hall,09:51,09:40,14,9,2025-10-26 09:46:00,2025-10-27,True,09:40,09:41,IGA000005
+zhang.65028, Easton Town Center, Jesse Owens Recreation Center South,10:08,09:51,12,8,2025-10-26 09:51:00,2025-10-27,False,,,
+chen.79821, Thompson Library, Drackett Tower,09:56,09:37,6,13,2025-10-26 09:52:00,2025-10-27,True,09:37,09:50,IGA000003
+liu.56995, 18th Avenue Library, The City Apartment,10:08,09:52,12,9,2025-10-26 09:58:00,2025-10-27,True,09:52,09:56,IGA000010
+zhao.63277, Ohio State University Adventure Recreation Center, Jennings Hall,10:11,09:51,13,7,2025-10-26 10:08:00,2025-10-27,True,09:51,09:58,IGA000010
+wang.70228, Easton Town Center, Jesse Owens Recreation Center South,10:29,10:10,11,9,2025-10-26 10:12:00,2025-10-27,True,10:10,10:18,IGA000012
+li.78730, Ohio Union, Morrill Tower,10:25,10:10,11,5,2025-10-26 10:20:00,2025-10-27,True,10:10,10:14,IGA000007
+zhang.56698, Ohio Union, John Glenn Columbus International Airport,10:34,10:17,6,15,2025-10-26 10:22:00,2025-10-27,True,10:17,10:28,IGA000007
+chen.31585, Easton Town Center, Jennings Hall,10:42,10:24,15,12,2025-10-26 10:25:00,2025-10-27,True,10:24,10:27,IGA000011
+wang.64235, Jennings Hall, Fisher Hall,10:33,10:21,13,12,2025-10-26 10:28:00,2025-10-27,False,,,
+li.23316, John Glenn Columbus International Airport, 18th Avenue Library,10:59,10:46,14,14,2025-10-26 10:43:00,2025-10-27,True,10:46,10:47,IGA000009
+zhang.76490, Drackett Tower, The City Apartment,11:04,10:48,13,13,2025-10-26 10:57:00,2025-10-27,False,,,
+chen.82246, Easton Town Center, Jennings Hall,11:27,11:14,15,8,2025-10-26 11:10:00,2025-10-27,True,11:14,11:15,IGA000012
+liu.75732, Ohio State University Adventure Recreation Center, Drackett Tower,11:14,11:00,8,6,2025-10-26 11:11:00,2025-10-27,False,,,
+zhao.66357, Drackett Tower, Ohio State University Adventure Recreation Center,11:28,11:12,15,8,2025-10-26 11:26:00,2025-10-27,True,11:12,11:13,IGA000003
+wang.65340, Thompson Library, Fisher Hall,11:39,11:20,9,7,2025-10-26 11:35:00,2025-10-27,True,11:20,11:30,IGA000002
+li.61700, 18th Avenue Library, Jesse Owens Recreation Center South,11:41,11:29,5,9,2025-10-26 11:35:00,2025-10-27,True,11:29,11:36,IGA000013
+zhang.84902, Easton Town Center, John Glenn Columbus International Airport,11:53,11:38,6,5,2025-10-26 11:43:00,2025-10-27,False,,,
+chen.87758, Morrill Tower, Drackett Tower,11:52,11:39,8,8,2025-10-26 11:48:00,2025-10-27,True,11:39,11:44,IGA000011
+wang.10647, Jennings Hall, 18th Avenue Library,12:01,11:47,13,5,2025-10-26 11:55:00,2025-10-27,False,,,
+li.84870, Jesse Owens Recreation Center South, Morrill Tower,12:22,12:04,15,14,2025-10-26 12:18:00,2025-10-27,True,12:04,12:07,IGA000006
+zhang.42636, Fisher Hall, The City Apartment,12:35,12:20,10,7,2025-10-26 12:28:00,2025-10-27,True,12:20,12:25,IGA000013
+chen.76590, Thompson Library, Easton Town Center,12:55,12:40,7,10,2025-10-26 12:37:00,2025-10-27,True,12:40,12:48,IGA000003
+liu.90298, John Glenn Columbus International Airport, Morrill Tower,13:03,12:53,14,8,2025-10-26 12:51:00,2025-10-27,True,12:53,12:54,IGA000010
+zhao.58082, Target(1717 Olentangy River Rd), Thompson Library,13:06,12:50,15,8,2025-10-26 12:59:00,2025-10-27,True,12:50,12:51,IGA000008
+wang.73081, Fisher Hall, Essex Apartment,13:06,12:49,13,10,2025-10-26 12:59:00,2025-10-27,True,12:49,12:53,IGA000002
+li.54034, The City Apartment, Essex Apartment,13:11,12:58,5,10,2025-10-26 13:05:00,2025-10-27,False,,,
+zhang.61799, Essex Apartment, Ohio State University Adventure Recreation Center,13:22,13:06,11,15,2025-10-26 13:16:00,2025-10-27,True,13:06,13:11,IGA000013
+chen.85630, Jennings Hall, Ohio State University Adventure Recreation Center,13:37,13:22,6,6,2025-10-26 13:34:00,2025-10-27,False,,,
+wang.65920, 18th Avenue Library, The City Apartment,13:49,13:38,14,13,2025-10-26 13:39:00,2025-10-27,True,13:38,13:39,IGA000005
+li.76501, Jesse Owens Recreation Center South, Ohio State University Adventure Recreation Center,13:46,13:30,12,13,2025-10-26 13:40:00,2025-10-27,True,13:30,13:34,IGA000006
+zhang.52641, The City Apartment, Thompson Library,13:52,13:41,15,9,2025-10-26 13:43:00,2025-10-27,True,13:41,13:42,IGA000005
+chen.51807, Essex Apartment, Target(1717 Olentangy River Rd),14:05,13:54,11,6,2025-10-26 14:01:00,2025-10-27,True,13:54,13:55,IGA000013
+liu.23576, Jennings Hall, Easton Town Center,14:18,14:05,5,11,2025-10-26 14:01:00,2025-10-27,False,,,
+zhao.58490, Jesse Owens Recreation Center South, The City Apartment,14:18,14:05,9,12,2025-10-26 14:10:00,2025-10-27,True,14:05,14:09,IGA000007
+wang.10187, Target(1717 Olentangy River Rd), Ohio Union,14:20,14:09,12,11,2025-10-26 14:13:00,2025-10-27,True,14:09,14:10,IGA000013
+li.70841, Ohio State University Adventure Recreation Center, Ohio Union,14:29,14:16,12,15,2025-10-26 14:26:00,2025-10-27,True,14:16,14:17,IGA000010
+zhang.45213, 18th Avenue Library, Fisher Hall,14:42,14:30,14,8,2025-10-26 14:37:00,2025-10-27,True,14:30,14:31,IGA000013
+chen.71133, Target(1717 Olentangy River Rd), Essex Apartment,14:53,14:36,5,11,2025-10-26 14:49:00,2025-10-27,False,,,
+wang.74184, Target(1717 Olentangy River Rd), Essex Apartment,15:09,14:52,9,14,2025-10-26 15:05:00,2025-10-27,True,14:52,15:00,IGA000008
+li.21711, Ohio State University Adventure Recreation Center, Jesse Owens Recreation Center South,15:11,14:54,9,9,2025-10-26 15:07:00,2025-10-27,True,14:54,15:02,IGA000010
+zhang.35797, Jesse Owens Recreation Center South, Jennings Hall,15:14,14:55,6,5,2025-10-26 15:12:00,2025-10-27,False,,,
+chen.77264, Ohio Union, Jennings Hall,15:16,14:59,14,6,2025-10-26 15:14:00,2025-10-27,True,14:59,15:02,IGA000007
+liu.12048, The City Apartment, Drackett Tower,15:31,15:19,7,14,2025-10-26 15:23:00,2025-10-27,True,15:19,15:24,IGA000006
+zhao.77903, Fisher Hall, 18th Avenue Library,15:28,15:13,15,10,2025-10-26 15:23:00,2025-10-27,True,15:13,15:14,IGA000013
+wang.70219, John Glenn Columbus International Airport, Essex Apartment,15:52,15:35,6,10,2025-10-26 15:38:00,2025-10-27,False,,,
+li.47771, John Glenn Columbus International Airport, Easton Town Center,16:24,16:09,15,13,2025-10-26 16:14:00,2025-10-27,True,16:09,16:10,IGA000010
+zhang.54640, Morrill Tower, Drackett Tower,16:26,16:10,10,8,2025-10-26 16:22:00,2025-10-27,False,,,
+chen.76904, Fisher Hall, Thompson Library,16:38,16:23,14,13,2025-10-26 16:34:00,2025-10-27,True,16:23,16:24,IGA000012
+wang.56112, John Glenn Columbus International Airport, Essex Apartment,16:58,16:48,8,12,2025-10-26 16:44:00,2025-10-27,True,16:48,16:50,IGA000009
+li.10263, Thompson Library, Fisher Hall,16:49,16:34,14,13,2025-10-26 16:45:00,2025-10-27,True,16:34,16:35,IGA000007
+zhang.71038, Easton Town Center, Essex Apartment,17:12,16:55,6,7,2025-10-26 16:53:00,2025-10-27,False,,,
+chen.19626, Easton Town Center, The City Apartment,17:16,17:02,14,13,2025-10-26 16:58:00,2025-10-27,True,17:02,17:03,IGA000012
+liu.17198, Easton Town Center, Ohio State University Adventure Recreation Center,17:20,17:05,9,12,2025-10-26 17:00:00,2025-10-27,True,17:05,17:11,IGA000011
+zhao.65620, Jennings Hall, John Glenn Columbus International Airport,17:14,17:01,11,10,2025-10-26 17:02:00,2025-10-27,True,17:01,17:03,IGA000011
+wang.65726, Thompson Library, Ohio State University Adventure Recreation Center,17:06,16:48,9,12,2025-10-26 17:04:00,2025-10-27,False,,,
+li.68603, Easton Town Center, Ohio State University Adventure Recreation Center,17:30,17:16,11,6,2025-10-26 17:10:00,2025-10-27,True,17:16,17:19,IGA000012
+zhang.27120, Morrill Tower, Thompson Library,18:01,17:44,10,10,2025-10-26 17:56:00,2025-10-27,True,17:44,17:51,IGA000011
+chen.65985, Target(1717 Olentangy River Rd), Ohio Union,18:26,18:13,15,10,2025-10-26 18:19:00,2025-10-27,True,18:13,18:14,IGA000007
+wang.13301, 18th Avenue Library, Easton Town Center,18:45,18:31,7,14,2025-10-26 18:24:00,2025-10-27,True,18:31,18:38,IGA000013
+li.19201, The City Apartment, 18th Avenue Library,18:40,18:24,7,10,2025-10-26 18:30:00,2025-10-27,True,18:24,18:33,IGA000005
+zhang.10148, Thompson Library, John Glenn Columbus International Airport,18:45,18:27,6,14,2025-10-26 18:31:00,2025-10-27,True,18:27,18:39,IGA000003
+chen.12136, 18th Avenue Library, Thompson Library,18:52,18:40,6,8,2025-10-26 18:47:00,2025-10-27,False,,,
+liu.16342, Ohio Union, Jesse Owens Recreation Center South,19:02,18:44,7,11,2025-10-26 19:01:00,2025-10-27,True,18:44,18:55,IGA000007
+zhao.19948, 18th Avenue Library, Essex Apartment,19:22,19:04,8,8,2025-10-26 19:12:00,2025-10-27,True,19:04,19:14,IGA000013
+wang.66242, Ohio State University Adventure Recreation Center, 18th Avenue Library,20:22,20:06,6,11,2025-10-26 20:16:00,2025-10-27,False,,,
+li.76927, Essex Apartment, John Glenn Columbus International Airport,20:32,20:15,8,9,2025-10-26 20:18:00,2025-10-27,False,,,
+zhang.83920, 18th Avenue Library, The City Apartment,21:40,21:22,13,9,2025-10-26 21:30:00,2025-10-27,True,21:22,21:27,IGA000004
+chen.21516, John Glenn Columbus International Airport, 18th Avenue Library,22:03,21:47,13,10,2025-10-26 21:47:00,2025-10-27,True,21:47,21:50,IGA000009
